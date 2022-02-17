@@ -1,6 +1,6 @@
 # DataDrivenLinearModels.jl
 
-**ATTENTION : Development of this package has just started! If you feel like contributing, please get in touch for further discussion. This also the first proper Julia package I am developing. Any tips and pieces of advice are welcome :)**
+**ATTENTION : Development of this package has just started! If you feel like contributing, please get in touch for further discussion. This is also the first proper Julia package I am developing. Any tips and pieces of advice are welcome :)**
 
 DataDrivenLinearModels.jl is a package for identifying low-rank linear models from data. Several models regularly used in Engineering Sciences are implemented, e.g.
 
